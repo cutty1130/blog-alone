@@ -1,1 +1,1 @@
-# blog-alone
+# blog-alone 프로젝트
